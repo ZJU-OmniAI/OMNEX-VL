@@ -2,4 +2,4 @@
 Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization
 
 ## introduction
-![introduction](https://github.com/omniAI-Lab/Ground-What-You-See/main/introduction.png)
+<img src="./introduction.png" style="zoom:100%;" />
