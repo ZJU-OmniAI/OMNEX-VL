@@ -12,5 +12,7 @@ Three types of illusions in the field of multimodal large models:
 <img src="./performance.png" style="zoom:100%;" />
 
 ## 📐 Set up
-
+### 1. Dataset
+1. Cold-Start Dataset:
+[Llava-COT]([https://www.modelscope.cn/models?name=iic/nlp_corom_sentence-embedding_english-base&page=1&tabKey=task](https://huggingface.co/datasets/Xkev/LLaVA-CoT-100k))
 
