@@ -109,3 +109,18 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 torchrun --nproc_per_node="8" \
     --num_generations 8
 ```
 
+## 📖 Citation
+If you want to cite our paper:
+
+```bibtex
+@inproceedings{pan2026ground,
+  title={Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization},
+  author={Pan, Miao and Gan, Wangjie and Chen, Jintao and Zhang, Wenqi and Bing, Sun and Yin, Jianwei and Zhang, Xuhong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={10},
+  pages={8242--8250},
+  year={2026}
+}
+```
+
