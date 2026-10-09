@@ -7,6 +7,19 @@ Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversi
 
 </div>
 
+<!-- hf-downloads:start -->
+## Hugging Face downloads
+
+All-time download counts as of **2026-10-10 (UTC+8)**. Each count links to the Hugging Face API (`downloadsAllTime`).
+
+| Resource | Type | All-time downloads |
+| :--- | :--- | ---: |
+| [OMNEX-VL](https://huggingface.co/OmniAI-ZJU/OMNEX-VL) | Model | [57](https://huggingface.co/api/models/OmniAI-ZJU/OMNEX-VL?expand%5B%5D=downloadsAllTime) |
+| [OMNEX-VL-DATA](https://huggingface.co/datasets/OmniAI-ZJU/OMNEX-VL-DATA) | Dataset | [261](https://huggingface.co/api/datasets/OmniAI-ZJU/OMNEX-VL-DATA?expand%5B%5D=downloadsAllTime) |
+
+**Total: 318 downloads** — models: **57**; dataset: **261**.
+<!-- hf-downloads:end -->
+
 ## 🔥 News
 - [2025/11/08] Our work is accepted by AAAI 2026.🎇🎇🎇
 
