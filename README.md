@@ -8,16 +8,18 @@ Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversi
 </div>
 
 <!-- hf-downloads:start -->
+
 ## Hugging Face downloads
 
-All-time download counts as of **2026-10-10 (UTC+8)**. Each count links to the Hugging Face API (`downloadsAllTime`).
+Automatically updated all-time counts from Hugging Face. Cross-repository totals are refreshed every 5 minutes. Badges are cached and may lag behind the source. [Refresh details](https://github.com/ZJU-OmniAI/.github/tree/main/metrics).
 
 | Resource | Type | All-time downloads |
 | :--- | :--- | ---: |
-| [OMNEX-VL](https://huggingface.co/OmniAI-ZJU/OMNEX-VL) | Model | [57](https://huggingface.co/api/models/OmniAI-ZJU/OMNEX-VL?expand%5B%5D=downloadsAllTime) |
-| [OMNEX-VL-DATA](https://huggingface.co/datasets/OmniAI-ZJU/OMNEX-VL-DATA) | Dataset | [261](https://huggingface.co/api/datasets/OmniAI-ZJU/OMNEX-VL-DATA?expand%5B%5D=downloadsAllTime) |
+| [OMNEX-VL](https://huggingface.co/OmniAI-ZJU/OMNEX-VL) | Model | [![downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FOmniAI-ZJU%2FOMNEX-VL%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=downloads&color=FFD21E&logo=huggingface&cacheSeconds=300)](https://huggingface.co/OmniAI-ZJU/OMNEX-VL) |
+| [OMNEX-VL-DATA](https://huggingface.co/datasets/OmniAI-ZJU/OMNEX-VL-DATA) | Dataset | [![downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FOmniAI-ZJU%2FOMNEX-VL-DATA%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=downloads&color=FFD21E&logo=huggingface&cacheSeconds=300)](https://huggingface.co/datasets/OmniAI-ZJU/OMNEX-VL-DATA) |
 
-**Total: 318 downloads** — models: **57**; dataset: **261**.
+[![models downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FZJU-OmniAI%2F.github%2Fhf-download-stats%2Fdownloads.json&query=%24.projects%5B%22omnex-vl%22%5D.models&label=models+downloads&color=FFD21E&logo=huggingface&cacheSeconds=300)](https://raw.githubusercontent.com/ZJU-OmniAI/.github/hf-download-stats/downloads.json) [![datasets downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FZJU-OmniAI%2F.github%2Fhf-download-stats%2Fdownloads.json&query=%24.projects%5B%22omnex-vl%22%5D.datasets&label=datasets+downloads&color=FFD21E&logo=huggingface&cacheSeconds=300)](https://raw.githubusercontent.com/ZJU-OmniAI/.github/hf-download-stats/downloads.json) [![total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FZJU-OmniAI%2F.github%2Fhf-download-stats%2Fdownloads.json&query=%24.projects%5B%22omnex-vl%22%5D.total&label=total+downloads&color=FFD21E&logo=huggingface&cacheSeconds=300)](https://raw.githubusercontent.com/ZJU-OmniAI/.github/hf-download-stats/downloads.json)
+
 <!-- hf-downloads:end -->
 
 ## 🔥 News
